@@ -5,7 +5,7 @@
 The analysis explores customer churn patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher churn rates to guide customer retention strategies.
 
 # Key Insights & Findings:
-**● Contract Type and Churn:**
+# ● Contract Type and Churn:
 ○ Customers on month-to-month contracts exhibit the highest churn rate, with 42% of such customers likely to churn.
 ○ In contrast, customers on one-year and two-year contracts have churn rates of 11% and 3%, respectively.
 ○ Implication: Longer contract periods serve as a strong retention tool, as
@@ -26,7 +26,7 @@ year, is critical for retention.
 ○ The analysis reveals that senior citizens (aged 65+) have a churn rate of 41%, compared to a 26% churn rate among non-senior citizens.
 ○ Implication: Special retention programs and targeted customer service for senior customers may help reduce churn in this demographic.
 
-**Visualizations & Data Insights:**
+# Visualizations & Data Insights:
 # ● Bar Charts and Line Graphs:
 ○ The visual representation of churn by payment method clearly shows that customers using electronic checks churn almost three times as much as those using more traditional or secure methods like credit cards.
 ○ Customer tenure vs. churn rate visualizations reveal a clear declining trend in churn as customers' tenure increases, underscoring the need for early-stage customer loyalty programs.
@@ -35,7 +35,7 @@ year, is critical for retention.
 ○ Contract Types: 42% churn for month-to-month contracts, 11% for yearly contracts, 3% for two-year contracts.
 ○ Tenure: 50% churn in the first year, dropping to 15% after three years.
 
-**Recommendations:**
+# Recommendations:
 ● Promote Long-Term Contracts: Offer incentives for customers to commit to longer
 contracts to reduce churn.
 ● Address Payment Method Concerns: Implement campaigns encouraging customers
