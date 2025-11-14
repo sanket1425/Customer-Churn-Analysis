@@ -13,6 +13,7 @@ customers with extended commitments are far less likely to leave.
 
 # ● Payment Methods and Churn:
 ○ Customers paying via electronic checks show the highest churn rate at 45%, while those using credit cards, bank transfers, or mailed checks have significantly lower churn rates, averaging around 15-18%.
+
 ○ Implication: The convenience, security, and trust issues related to electronic payments might be contributing factors. Encouraging customers to switch to more stable payment methods could reduce churn.
 
 # ● Churn by Tenure:
